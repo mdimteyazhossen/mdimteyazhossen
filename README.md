@@ -1,105 +1,69 @@
-<div align="center">
-  <img height="" src="https://i.ibb.co.com/8dSfgdb/imteyaz-banner.png"  />
-</div>
+# 👋 Hi, I'm Md Imteyaz Hossen
 
-###
+### 🛡️ Cybersecurity & AI Enthusiast | USACO Bronze | National Finalist NCO 2026 & BDAIO 2025
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/imteyaz-hossen-809b0627b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdimteyazhossen/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdimteyazhossen)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mdimteyazhossen)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MdImteyazHossen)
 
-###
+---
 
-<br clear="both">
+## 🚀 Live AI + Cybersecurity Projects
 
-<h1 align="center">hey , I'm Imteyaz.</h1>
+| Project | Description | Tech Stack | Live Demo |
+|:--------|:------------|:-----------|:----------|
+| **🛡️ SpamShield XAI** | Explainable AI-powered email spam detector that shows *why* an email is spam using LIME. | Naive Bayes, LIME, Streamlit | [Try it live](https://spamshieldemail-spam-detection-project-with-ai-7dj2mhwexjxbka6.streamlit.app/) |
+| **🔍 Malicious Detective XAI** | Multi-class phishing & malware URL classifier with LightGBM and LIME explainability. | LightGBM, LIME, Streamlit | [Try it live](https://malicious-detective-xai.streamlit.app/) |
+| **🔐 Prompt Inspector XAI** | *Coming Soon* – Detects prompt injection attacks and AI-generated text using Transformers. | ModernBERT/DeBERTa, LIME, Streamlit | *Building...* |
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🏆 Achievements & Honors
 
-###
+### Cybersecurity
+- 🥇 **National Finalist** – Janakantha National Cyber Olympiad (NCO) 2026 *(Qualified for Studio Round)*
+- 🌍 **Participant** – International Cyber Security Olympiad (ICSO) 2025 Online Preliminary
+- 📜 **CCA Government Verified** – Professional Cybersecurity & Ethical Hacking *(Kali Linux, SOC, Digital Forensics)*
+- 🧪 **21+ Labs** completed on TryHackMe | Practice on PicoCTF
 
-<p align="left">I'm a Web Developer from Dhaka, Bangladesh.<br><br><br>✨ Creating bugs since: Day 1, but I try to learn from them!<br><br>📚 I'm currently learning: More about natural language understanding and creative problem-solving. Also, trying to grasp new programming languages and frameworks.<br><br>🎯 Goals: To continue improving my responses, understand user context better, and help make technology more accessible to everyone.<br><br>🎲 Fun fact: Did you know that a single "bug" in software can sometimes cause a domino effect leading to unexpected results? It's like a butterfly flapping its wings... but in code! 🦋</p>
+### Competitive Programming
+- 🏅 **Winner** – National High School Programming Contest (NHSPC) 2025 *(Comilla University Hub)*
+- 🇧🇩 **National Rank 76th** – BDOI Preliminary 2025
+- 🥉 **USACO Bronze** | **Codeforces Pupil** (Max Rating: 1372)
+- 🧩 **1200+** algorithmic problems solved across Codeforces, LeetCode, VJudge
 
-###
+### AI & Data Science
+- 🧠 **National Finalist** – Bangladesh AI Olympiad (BDAIO) 2025 *(Top 171 out of 1000+ nationwide)*
+- 📊 **8 Kaggle Projects** (Spam Detection, Cardiovascular Prediction, Customer Churn)
+- 🤖 **National Finalist** (College Category) – BUBT AI Conquest 2025
 
-<h3 align="left">🛠 Language and tools</h3>
+### Analytical & Mathematics
+- 🧠 **Class 11 Category National Rank 7th, Medal of Honour** – Bangladesh IQ Olympiad 2025
+- 🧮 **SASMO 2026** – Score: 23/25 (Expected Gold/Silver)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## 🛠️ Tech Stack & Tools
 
-###
+`Python` `C++` `JavaScript` `Streamlit` `React` `Node.js` `MongoDB`
+`Scikit-learn` `LightGBM` `LIME` `Transformers` `Kali Linux` `SOC` `Digital Forensics` `Git`
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 📌 Featured Repositories
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdimteyazhossen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- [SpamShield Email Spam Detection with XAI](https://github.com/mdimteyazhossen/SpamShield_Email-Spam-Detection-project-with-XAI-and-AI)
+- [Malicious Detective XAI](https://github.com/mdimteyazhossen/Malicious-Detective-XAI)
+- [TastyTales (MERN Stack Restaurant App)](https://github.com/mdimteyazhossen/TastyTales)
+- [SportsSpace E-Commerce](https://github.com/mdimteyazhossen/SportsSpace)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdimteyazhossen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimteyazhossen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📫 Let's Connect
 
-###
+- 📧 **Email:** imteyazhossen13711@gmail.com
+- 💼 **LinkedIn:** [mdimteyazhossen](https://www.linkedin.com/in/mdimteyazhossen/)
+- 📊 **Kaggle:** [mdimteyazhossen](https://www.kaggle.com/mdimteyazhossen)
 
-<img src="https://raw.githubusercontent.com/mdimteyazhossen/mdimteyazhossen/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Connect With Me -</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="60" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-</div>
-
-###
+> *"Vision: AI-driven cybersecurity solutions for next-generation threat detection."*
